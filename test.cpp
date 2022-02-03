@@ -32,3 +32,6 @@ int main(){
 	system("PAUSE");
 	return 0;
 }
+
+
+// Fajny kod:) <3
