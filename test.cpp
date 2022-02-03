@@ -14,13 +14,13 @@ int main(){
 		int line = (round(halfAmplitude*sin(i) + halfAmplitude + 1));
         
         for(int x = 0; x < line; x++){
-				cout<<"O";
+				cout<<"X";
 			}
 		
 		int theRest = (halfAmplitude * 2) + 1;
 		
 		for(int x = 0; x < theRest - line; x++){
-				cout<<".";
+				cout<<"-";
 			}
         
         cout<<endl;
